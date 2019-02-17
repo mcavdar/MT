@@ -1,2 +1,2 @@
-# mt
+# MT
 Machine Translation related topics 
